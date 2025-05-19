@@ -31,15 +31,15 @@ Website moderno e responsivo para a Clínica Luminé, especializada em procedime
 ├── js/
 │   └── main.js
 ├── assets/
-│   ├── hero-bg.webp
-│   ├── dr-augusto.webp
-│   ├── botox.webp
-│   ├── preenchimento.webp
-│   ├── limpeza.webp
-│   ├── microagulhamento.webp
-│   ├── instagram.webp
-│   ├── facebook.webp
-│   └── favicon.webp
+│   ├── augusto.jpeg
+│   ├── banner.avif
+│   ├── banner1.jpeg
+│   ├── botox.jpeg
+│   ├── facebook.png
+│   ├── instagram.jpg
+│   ├── limpeza.jpg
+│   ├── microagulha.jpeg
+│   └── preenchimento.webp
 └── README.md
 ```
 
@@ -101,7 +101,7 @@ As fontes podem ser alteradas no arquivo `index.html`:
 
 ## Suporte
 
-Para suporte ou dúvidas, entre em contato através do e-mail: [SEU_EMAIL]
+Para suporte ou dúvidas, entre em contato através do e-mail: dev.ascef@gmail.com
 
 ## Licença
 
